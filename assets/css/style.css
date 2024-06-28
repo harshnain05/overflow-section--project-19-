@@ -37,7 +37,7 @@ section {
 }
 
 .main_text {
-    color: var(--white, #FFF);
+    color: white;
     font-family: 'Poppins', sans-serif;
     font-size: 48px;
     font-style: normal;
@@ -46,7 +46,7 @@ section {
 }
 
 .sub_text {
-    color: var(--white, #FFF);
+    color: white;
     font-family: 'Poppins', sans-serif;
     font-size: 18px;
     font-style: normal;
@@ -85,7 +85,7 @@ section {
 }
 
 .lorem {
-    color: var(--white, #FFF);
+    color: white;
     font-family: "Poppins", sans-serif;
     font-size: 22px;
     font-style: normal;
@@ -94,7 +94,7 @@ section {
 }
 
 .lorem_text {
-    color: var(--white, #FFF);
+    color: white;
     font-family: 'Poppins', sans-serif;
     font-size: 18px;
     font-style: normal;
